@@ -327,7 +327,7 @@ font-weight: 700;
 background-color: #404bbf;
 }
 
-.team-list:focus .team-social-link {
+.team-social-link:focus {
 background-color: #404bbf;
 }
 
@@ -483,7 +483,6 @@ font-weight: 500;
 .footer-social-link:hover {
 background-color: #31d0aa;
 }
-
 
 .footer-social-link:focus {
     background-color: #31d0aa;
